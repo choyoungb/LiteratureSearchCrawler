@@ -2,7 +2,7 @@
 Web Crawling Algorithm for GeoBank literature search 
 
 Ver 1.
-Using Jupyter Notebook (Python) to automize database search using keywords on https://www.ncbi.nlm.nih.gov/gds/ 
+Using Jupyter Notebook (Python) to automate database search using keywords on https://www.ncbi.nlm.nih.gov/gds/ 
 Dataset search engine. 
 
 Takes an input of gene list 
